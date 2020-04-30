@@ -1,0 +1,30 @@
+label, input, button {
+  display: block;
+  font-type: Baloo Tamma 2; cursive;
+}
+
+label, button{
+  text-transform:uppercase;
+  font-size:22px;
+}
+
+input, button{
+  border-radius:5px;
+  border: 3px solid #60E858;
+  margin-bottom:10px;
+  
+}
+
+button{
+  border-radius:40px;
+  background: #60E858;
+  padding: 15px;
+  
+ 
+}
+
+input{
+  width: 300px;
+  padding:35px;
+}
+

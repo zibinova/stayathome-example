@@ -1,0 +1,21 @@
+a{
+  display: block;
+  font-family: Sen;
+  color: green;
+  
+  font-size: 25px;
+  margin:10px,
+    
+ a:visited {
+  color: green;
+}  
+  
+}
+a:hover {
+  color: lime;
+  text-decoration: none;
+}
+
+     
+
+  

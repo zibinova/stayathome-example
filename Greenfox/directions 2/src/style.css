@@ -1,0 +1,25 @@
+div {
+  border: 10px solid #4285f4;
+  width:400px;
+  margin-bottom:5px;
+}
+p {
+  text-align:center;
+  margin: 0px;
+  padding: 30px;
+  color: white;
+  font-weight: bold;
+  font-style: Baloo Thambi 2;
+  font-size: 30px;
+  
+}
+.red {
+   background: #E67676;
+   
+}
+
+
+.blue {
+  background: #A9E6E6;
+  
+}

@@ -1,0 +1,50 @@
+header{
+  display:flex;
+  background: purple;
+  height: 50px;
+  position: fixed;
+  top: 0;
+  padding:10px;
+  padding-left:90px;
+  align-items:center;
+  width:1500px;
+  
+}
+
+button{
+  background: cyan;
+  height:30px;
+  width:100px;
+  margin: 10px;
+  border: none;
+   
+}
+.middle{
+  width: 140px;
+}
+
+.lime{
+  height:500px;
+  background:lime;
+  flex-grow:1;
+}
+
+.yellow{
+  height:500px;
+  background:yellow;
+  flex-grow:4;
+}
+.container{
+  display:flex;
+  margin-top:80px;
+  margin-left:100px;
+  margin-right:100px;
+}
+
+footer{
+  background:lightgrey;
+  height:80px;
+  margin-left:100px;
+  margin-right:100px;
+  margin-top:10px;
+}
